@@ -1,0 +1,34 @@
+Controls and Game Info
+Snake Game:
+In the game of Snake, the player uses the arrow keys to move a "snake" around the board. 
+As the snake finds food, it eats the food, and thereby grows larger. 
+The game ends when the snake either moves off the screen or moves into itself. 
+The goal is to make the snake as large as possible before that happens.
+Use the arrow keys to control the snake.*
+
+Brick Breaker:
+In the Brick breaker game, the player moves a PADDLE from side-to-side to hit a BALL. 
+The game's objective is to eliminate all of the BRICKS at the top of the screen by hitting them with the BALL. 
+But, if the ball hits the bottom ENCLOSURE, the player loses and the game ends! To win the game, all the BRICKS must be eliminated.
+Use the left-right arrow keys to move the board/paddle. The ball will bounce on the board.*
+
+
+Tetris:
+Tetris has very simple rules: you can only move the pieces in specific ways; 
+your game is over if your pieces reach the top of the screen; 
+and you can only remove pieces from the screen by filling all the blank space in a line. 
+Rules give much needed structure to our play 
+Use the up-down arrow keys to turn the pieces and use the left-right arrow keys to move the pieces. 
+Press the spacebar key to speed up the pieces so they reach the end faster.*
+
+
+
+Mine-Sweeper:
+Minesweeper is a single-player puzzle video game. 
+The objective of the game is to clear a rectangular board containing hidden "mines" or bombs without detonating any of them, 
+with help from clues about the number of neighbouring mines in each field. 
+If no mine is revealed, a digit is instead displayed in the square, indicating how many adjacent squares contain mines; 
+if no mines are adjacent, the square becomes blank, and all adjacent squares will be recursively revealed. 
+The player uses this information to deduce the contents of other squares and may either safely reveal each square or mark the square as containing a mine.
+Use the left mouse button to click on the squares you want to check for mines. 
+Use the right mouse button to leave a flag on a tile which you think contains a mine.*

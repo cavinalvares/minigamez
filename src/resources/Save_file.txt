@@ -1,0 +1,27 @@
+Snake Game;test1;14
+Snake Game;test2;21
+Snake Game;test3;24
+Snake Game;Player;1
+Snake Game;Player;4
+Snake Game;Player;15
+Snake Game;Player;17
+Snake Game;Ply;8
+Snake Game;Player3;3
+Brick Break;Player5;7
+Snake Game;Player1;1
+Brick Break;Player;13
+Tetris;Player;0
+Tetris;Player;17
+Snake Game;Player;21
+Mine Sweeper;helli;456
+Brick Break;Player;24
+Mine Sweeper;ghop;229
+Mine Sweeper;po;306
+Brick Break;cv;78
+Brick Break;Player;11
+Brick Break;Player;109
+Brick Break;Player;107
+Tetris;b;15
+Snake Game;Player;13
+Brick Break;kop;24
+Mine Sweeper;cavin;403
